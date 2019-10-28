@@ -1,0 +1,2 @@
+## Community weather radar software and Open Science
+While the focus of this course is on all the awesome Open Source software that is available in the community, software itself is a means to an end. Keeping our eyes on the prize, the ways in which Open Source software comprises a critical component in the overall Open Science process will be introduced and exemplified. Doing this is designed to provide course participants with the context to guide them towards using collaborative, open and sustainable software solutions to help them achieve their goals.
