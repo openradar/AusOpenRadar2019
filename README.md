@@ -1,9 +1,8 @@
-# AusOpenRadar2019
-
+# The 2019 Australian Open Radar Science Course
+Run this course on [pangeo.binder.io](http://binder.pangeo.io/): [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/openradar/AusOpenRadar2019/master)
 [![Join the chat at https://gitter.im/openradar/AusOpenRadar2019](https://badges.gitter.im/openradar/AusOpenRadar2019.svg)](https://gitter.im/openradar/AusOpenRadar2019?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A Binder/Pangeo executable repository for the one day Open Science workshop at the 2019 Australian Radar Workshop
-
 
 The course will take place on November 12th 2019, right before the Australian radar workshop. We will introduce the participants to [community software packages](http://openradarscience.org) designed for radar data processing, including (but not limited to) [BALTRAD](http://git.baltrad.eu/), [Py-ART](http://arm-doe.github.io/pyart/), and [wradlib](https://wradlib.org). Following a welcome, there will be an introduction to Open Science concepts and the Open Radar context.
 
