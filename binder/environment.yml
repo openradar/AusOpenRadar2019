@@ -1,0 +1,37 @@
+# packages in addition to s/buildpacks/conda/environment.yml
+name: pangeo
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - xarray>=0.12.2
+# data science stuff
+  - boto
+  - boto3
+  - blas
+  - liblapacke
+# geospatial
+  - proj4=5.2.0
+  - cartopy
+  - geopandas
+  - netcdf4
+  - h5py
+  - h5netcdf
+# geoscience-related
+  - metpy
+  - satpy
+# jupyter-related
+  - ipyleaflet
+  - pip
+# radar
+  - wradlib
+  - coincbc=2.9.9
+  - pip:
+    - git+https://github.com/ARM-DOE/pyart.git
+    - git+https://github.com/openradar/PyDDA.git
+    - nexradaws
+    - cdsapi
+    - git+https://github.com/CSU-Radarmet/CSU_RadarTools.git
