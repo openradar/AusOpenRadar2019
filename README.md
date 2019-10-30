@@ -26,7 +26,7 @@ The common ground for most of those tools is Python, so we'll feature a quick in
 ### Things you need to prepare
 Participants need to bring their own 64-bit notebook (Linux, Windows, Mac). All you need to do is to install VirtualBox and import the Virtual Machine for the course, this will be used as a back up if the Pangeo binder does not work. Please see [here](http://openradarscience.org/vm-docs/) for general instructions, and [here](vm-launch) for an overview specific to this course.
 
-###Location
+### Location
 
 The course will be held in the Civil Engineering building on the Clayton Campus.
 
