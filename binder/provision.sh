@@ -3,12 +3,16 @@
 cd ~
 mkdir data
 cd data
-mkdir cp2
-cd cp2
-wget http://mcs.anl.gov/~scollis/cp2.tgz
-tar -xvzf cp2.tgz
-rm cp2.tgz
-cd ..
+
+#cp2 removed for this example
+
+#mkdir cp2
+#cd cp2
+#wget http://mcs.anl.gov/~scollis/cp2.tgz
+#tar -xvzf cp2.tgz
+#rm cp2.tgz
+#cd ..
+
 mkdir arm
 cd arm
 wget http://www.mcs.anl.gov/~scollis/pyart/csapr_test_case.nc
