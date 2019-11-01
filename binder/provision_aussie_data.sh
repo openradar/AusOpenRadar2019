@@ -24,7 +24,6 @@ mv *.pvol.h5 newcastle
 #Canberra(SP)
 wget -O cb.zip http://dapds00.nci.org.au/thredds/fileServer/rq0/odim_pvol/40/2018/vol/40_20181220.pvol.zip
 unzip cb.zip
-unzip cb.zip
 mkdir canberra
 mv *.pvol.h5 canberra
 
