@@ -14,6 +14,7 @@ The common ground for most of those tools is Python, so we'll feature a quick in
 ### List of tutors
 * Collis, Scott (Argonne National Laboratory, USA)
 * Michelson, Daniel B. (Environment and Climate Change, Canada)
+* Warren, Robert (Monash University)
 
 ### List of Contributors
 
