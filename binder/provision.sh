@@ -22,6 +22,6 @@ cd ..
 wget http://www.mcs.anl.gov/~scollis/metdata.tgz
 tar -xvzf metdata.tgz
 cd ~
-if [ ! -d tmp ]; then
+if [ -d tmp ]; then
     rm -rf tmp
 fi
