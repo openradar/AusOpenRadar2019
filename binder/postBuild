@@ -21,6 +21,8 @@ bash /home/jovyan/binder/install_baltrad_rave.sh
 bash /home/jovyan/binder/install_baltrad_beamb.sh
 bash /home/jovyan/binder/install_baltrad_bropo.sh
 bash /home/jovyan/binder/install_baltrad_wrwp.sh
+bash /home/jovyan/binder/install_baltrad_rave_gmap.sh
+bash /home/jovyan/binder/install_baltrad_drqc.sh
 bash /home/jovyan/binder/install_baltrad_short_course.sh
 cp /home/jovyan/binder/kernel.json $CONDA_PREFIX/share/jupyter/kernels/python3/.
 
