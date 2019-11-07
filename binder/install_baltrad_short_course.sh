@@ -8,9 +8,9 @@ mkdir tmp
 fi
 cd tmp
 git clone --depth=1 https://github.com/DanielMichelson/baltrad_short_course.git
-mv baltrad_short_course ../notebooks/.
+mv baltrad_short_course ../baltrad/.
 git clone --depth=1 https://github.com/DanielMichelson/baltrad2wradlib.git
-mv baltrad2wradlib ../notebooks/.
+mv baltrad2wradlib ../baltrad/.
 git clone --depth=1 https://github.com/DanielMichelson/pyart2baltrad.git
-mv pyart2baltrad ../notebooks/.
+mv pyart2baltrad ../baltrad/.
 cd ~
