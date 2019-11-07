@@ -8,6 +8,7 @@ dependencies:
   - matplotlib
   - pandas
   - xarray>=0.12.2
+  - tqdm
 # data science stuff
   - boto
   - boto3
