@@ -13,6 +13,8 @@ cd data
 #rm cp2.tgz
 #cd ..
 
+wget http://www.mcs.anl.gov/~scollis/era5_data_aus.nc
+
 mkdir arm
 cd arm
 wget http://www.mcs.anl.gov/~scollis/pyart/csapr_test_case.nc
