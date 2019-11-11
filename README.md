@@ -10,9 +10,6 @@ Thanks to [The Open Radar Science Community](https://openradarscience.org/) and.
 <p align="center">
 <a href='https://pangeo.io/'>
 <img src="small_e_logo_cropped.png" alt="drawing" width="200">
-
-
-the Pangeo team!
 </a>
 </p>
 
