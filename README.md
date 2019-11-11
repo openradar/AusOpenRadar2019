@@ -6,7 +6,8 @@ A Binder/Pangeo executable repository for the one day Open Science workshop at t
 
 Thanks to [The Open Radar Science Community](https://openradarscience.org/) and...
 
-[![](small_e_logo_cropped.png)](https://pangeo.io/)
+[![](small_e_logo_cropped.png =240x)](https://pangeo.io/)
+
 the Pangeo team!
 
 The course will take place on November 12th 2019, right before the Australian radar workshop. We will introduce the participants to [community software packages](http://openradarscience.org) designed for radar data processing, including (but not limited to) [BALTRAD](http://git.baltrad.eu/), [Py-ART](http://arm-doe.github.io/pyart/), and [wradlib](https://wradlib.org). Following a welcome, there will be an introduction to Open Science concepts and the Open Radar context.
