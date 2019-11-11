@@ -6,7 +6,7 @@ A Binder/Pangeo executable repository for the one day Open Science workshop at t
 
 Thanks to [The Open Radar Science Community](https://openradarscience.org/) and...
 
-[![](small_e_logo_cropped.png =240x)](https://pangeo.io/)
+[!<img src="small_e_logo_cropped.png" alt="drawing" width="200"/>](https://pangeo.io/)
 
 the Pangeo team!
 
