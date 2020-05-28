@@ -9,6 +9,7 @@ dependencies:
   - pandas
   - xarray>=0.12.2
   - tqdm
+  - dask-gateway==0.7.1
 # data science stuff
   - boto
   - boto3
